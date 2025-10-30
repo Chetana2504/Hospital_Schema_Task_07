@@ -1,4 +1,4 @@
-# Hospital Database – Task 7 �
+# Hospital Database – Task 7 
 
 ##  Objective
 To create and use **Views** in SQL for better data abstraction, reusability, and security.
